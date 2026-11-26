@@ -1,0 +1,39 @@
+
+# Data Manipulation
+numpy==1.26.4
+pandas==2.2.3
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Image Processing
+opencv-python==4.10.0.84
+Pillow==11.0.0
+albumentations==1.4.21
+
+# Machine Learning
+scikit-learn==1.5.2
+
+# Utilities
+tqdm==4.67.1
+
+# Development
+jupyter==1.1.1
+ipykernel==6.29.5
+
+#experimental tracking
+mlflow==2.19.0
+
+# Deep Learning
+torch==2.5.1
+torchvision==0.20.1
+
+# API
+fastapi==0.115.6
+uvicorn==0.34.0
+python-multipart
+
+# Frontend
+streamlit
+requests
